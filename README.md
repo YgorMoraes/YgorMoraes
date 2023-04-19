@@ -8,7 +8,7 @@
  
 - 🚀 Meu Portifolio **[em desenvolvimento](em desenvolvimento)**;
 
-- 👨‍🎓 Sou graduado em **Sistemas de Informação**;
+- 👨‍🎓 Sou formado em **Sistemas de Informação**;
 
 - 📫 Se quiser entrar em contato.  **ygorluizmoraes@gmail.com**
 
