@@ -1,6 +1,6 @@
 # Olá!, sou Ygor Moraes, Desenvolvedor Front-End
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YgorMoraes&color=0e14c2" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YgorMoraes&color=075FE4" alt="Profile views" /> </p>
 
 <br>
 
