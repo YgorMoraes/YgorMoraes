@@ -1,5 +1,3 @@
-<img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
-
 # Olá!, sou Ygor Moraes, Desenvolvedor Front-End
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YgorMoraes&color=075FE4" alt="Profile views" /> </p>
