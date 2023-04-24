@@ -6,11 +6,11 @@
 
  ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;Sobre:
  
-- 🚀 Meu Portifolio **[ygormoraes.vercel.app](https://ygormoraes.vercel.app/)**;
+- 🚀 Meu Portfólio **[ygormoraes.vercel.app](https://ygormoraes.vercel.app/)**;
 
 - 👨‍🎓 Sou formado em **Sistemas de Informação**;
 
-- 📫 Se quiser entrar em contato  **ygorluizmoraes@gmail.com**
+- 📫 Se quiser entrar em contato **ygorluizmoraes@gmail.com**
 
 <br>
 
